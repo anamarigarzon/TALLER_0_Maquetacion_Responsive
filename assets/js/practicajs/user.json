@@ -1,0 +1,26 @@
+{
+"user":[
+{ 
+    "id": 1,
+    "tipodoc":"Cédula Ciudadanía",
+    "numdoc":"1234567890",
+    "nombre":"Mario Alberto",
+    "apellido":"Yepes Caicedo",
+    "fnacimiento": "1982-06-25",
+    "email": "marioyepes@gmail.com",
+    "password":"qwerty"
+},
+{
+    "id": 1,
+    "tipodoc":"Tarjeta de Identidad",
+    "numdoc":"1007520369",
+    "nombre":"Paula",
+    "apellido":"Cabrera Vargas",
+    "fnacimiento": "2003-04-24",
+    "email": "mapu@gmail.com",
+    "password":"qwerty123"
+
+}]
+
+
+}
